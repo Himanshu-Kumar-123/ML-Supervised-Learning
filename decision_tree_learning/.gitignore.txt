@@ -1,0 +1,5 @@
+node_modules library root
+node_modules
+package.json
+package-lock.json
+.idea
